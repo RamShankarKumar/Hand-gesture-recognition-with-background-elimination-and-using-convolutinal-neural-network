@@ -1,4 +1,4 @@
-# Hand Gesture Recognition Using Background Ellimination and Convolution Neural Network
+# Hand Gesture Recognition Using Background Elimination and Convolution Neural Network
 
 ## About the Project
 
